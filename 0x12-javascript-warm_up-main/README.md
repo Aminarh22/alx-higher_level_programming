@@ -1,1 +1,1 @@
-coding is fun
+codig is fun
